@@ -86,8 +86,8 @@ I test software the way a user would — and the way a user shouldn't. I design 
 
 ## 📫 Reach me
 
-- **LinkedIn:** [YOUR-LINKEDIN-URL](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-- **Email:** [YOUR-EMAIL@example.com](mailto:YOUR-EMAIL@example.com)
+<!-- - **LinkedIn:** [YOUR-LINKEDIN-URL](https://www.linkedin.com/in/YOUR-LINKEDIN-ID) -->
+- **Email:** [YOUR-EMAIL@example.com](mailto:akshaywagh7620@gmail.com)
 
 ---
 
